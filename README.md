@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on **LMS Platform**
+- 🔭 I’m currently working on **Learning NEXT JS💪**
 
 - 🌱 I’m currently learning **React JS, Node JS,**
 
