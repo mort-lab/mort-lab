@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS,**
 
-- 👨‍💻 All of my projects are available at [martindev.vercel.app](martins.framer.app)
+- 👨‍💻 All of my projects are available at [https://martins.framer.website/]
 
 - 💬 Ask me about **Next js, Shadcn, MySQL**
 
