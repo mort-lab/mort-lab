@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on **Learning NEXT JS💪**
+- 🔭 I’m currently working on **Learning Spring💪**
 
-- 🌱 I’m currently learning **React JS, Node JS,**
+- 🌱 I’m currently learning **Java, Spring,**
 
 - 👨‍💻 All of my projects are available at https://martins.framer.website/
 
-- 💬 Ask me about **Next js, Shadcn, MySQL**
+- 💬 Ask me about **Java, MySQL, ReactJS**
 
 - 📫 How to reach me **mirurozk@gmail.com**
 
