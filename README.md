@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on **Learning Java💪**
+- 🔭 I’m currently working on **Learning Shopify Development💪**
 
-- 🌱 I’m currently learning **Backend With Java**
+- 🌱 I’m currently learning **Shopify**
 
-- 👨‍💻 All of my projects are available at https://martins.framer.website/
+- 👨‍💻 All of my projects are available at https://martindev-portfolio.vercel.app/
 
-- 💬 Ask me about **Java, Shopify, ReactJS**
+- 💬 Ask me about **Liquid, Shopify, ReactJS**
 
 - 📫 How to reach me **mirurozk@gmail.com**
 
