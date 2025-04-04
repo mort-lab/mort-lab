@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working as a **Frontend Developer at Cultzyme💪**
+- 🔭 I’m currently working as a **Founder of Trimio👽💈💪**
 
-- 🌱 I’m currently learning **Shopify, NextJS**
+- 🌱 I’m currently learning **Java Spring, NextJS**
 
 - 👨‍💻 All of my projects are available at https://martindev-portfolio.vercel.app/
 
-- 💬 Ask me about **Liquid, Shopify, NextJS**
+- 💬 Ask me about **Liquid, Shopify, NextJS, TypeScript, Stripe, AWS**
 
 - 📫 How to reach me **mirurozk@gmail.com**
 
