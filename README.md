@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working as a **Founder of Trimio👽💈💪**
+- 🔭 I’m currently working as a **Founder of Trimio & Movo AI👽💈💪**
 
-- 🌱 I’m currently learning **Java Spring, NextJS**
+- 🌱 I’m currently learning **Nextjs, Shopify + AI**
 
-- 👨‍💻 All of my projects are available at https://martindev-portfolio.vercel.app/
+- 👨‍💻 All of my projects are available at https://mortlab.uk
 
 - 💬 Ask me about **Liquid, Shopify, NextJS, TypeScript, Stripe, AWS**
 
